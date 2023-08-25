@@ -1,4 +1,5 @@
 ## Information
+Search Date: 
 
 <!-- 
 This should show the list of companies searched that are not company specific sites.
@@ -11,6 +12,7 @@ List out items
 If it had more than one reference, put a count and reference link next to it
  -->
 ### Roles
+<!-- What you will do -->
 
 ### Experiences
 
@@ -24,3 +26,10 @@ If it had more than one reference, put a count and reference link next to it
 2. Upload the word doc into github
 3. Add a line to here with the job postings and add the
 -->
+1. [COMPANY_NAME : POSITION_NAME](./Job%20Descriptions/)
+**Expectation**
+
+**Qualifications**
+    - Product Experience:  years
+
+**Specifics**
